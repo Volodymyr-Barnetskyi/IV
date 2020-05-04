@@ -1,0 +1,27 @@
+C:\Users\yaryna\Desktop\c#\pr8\pr8\bin\Debug\pr8.exe.config
+C:\Users\yaryna\Desktop\c#\pr8\pr8\bin\Debug\pr8.exe
+C:\Users\yaryna\Desktop\c#\pr8\pr8\bin\Debug\pr8.pdb
+C:\Users\yaryna\Desktop\c#\pr8\pr8\obj\Debug\pr8.csprojAssemblyReference.cache
+C:\Users\yaryna\Desktop\c#\pr8\pr8\obj\Debug\pr8.Form1.resources
+C:\Users\yaryna\Desktop\c#\pr8\pr8\obj\Debug\pr8.Properties.Resources.resources
+C:\Users\yaryna\Desktop\c#\pr8\pr8\obj\Debug\pr8.csproj.GenerateResource.cache
+C:\Users\yaryna\Desktop\c#\pr8\pr8\obj\Debug\pr8.exe
+C:\Users\yaryna\Desktop\c#\pr8\pr8\obj\Debug\pr8.pdb
+C:\Users\yaryna\Desktop\потом розберу\c#\pr8\pr8\bin\Debug\pr8.exe.config
+C:\Users\yaryna\Desktop\потом розберу\c#\pr8\pr8\bin\Debug\pr8.exe
+C:\Users\yaryna\Desktop\потом розберу\c#\pr8\pr8\bin\Debug\pr8.pdb
+C:\Users\yaryna\Desktop\потом розберу\c#\pr8\pr8\obj\Debug\pr8.csprojAssemblyReference.cache
+C:\Users\yaryna\Desktop\потом розберу\c#\pr8\pr8\obj\Debug\pr8.Form1.resources
+C:\Users\yaryna\Desktop\потом розберу\c#\pr8\pr8\obj\Debug\pr8.Properties.Resources.resources
+C:\Users\yaryna\Desktop\потом розберу\c#\pr8\pr8\obj\Debug\pr8.csproj.GenerateResource.cache
+C:\Users\yaryna\Desktop\потом розберу\c#\pr8\pr8\obj\Debug\pr8.exe
+C:\Users\yaryna\Desktop\потом розберу\c#\pr8\pr8\obj\Debug\pr8.pdb
+D:\WWW\sharp\pr8\pr8\bin\Debug\pr8.exe.config
+D:\WWW\sharp\pr8\pr8\bin\Debug\pr8.exe
+D:\WWW\sharp\pr8\pr8\bin\Debug\pr8.pdb
+D:\WWW\sharp\pr8\pr8\obj\Debug\pr8.csprojAssemblyReference.cache
+D:\WWW\sharp\pr8\pr8\obj\Debug\pr8.Form1.resources
+D:\WWW\sharp\pr8\pr8\obj\Debug\pr8.Properties.Resources.resources
+D:\WWW\sharp\pr8\pr8\obj\Debug\pr8.csproj.GenerateResource.cache
+D:\WWW\sharp\pr8\pr8\obj\Debug\pr8.exe
+D:\WWW\sharp\pr8\pr8\obj\Debug\pr8.pdb

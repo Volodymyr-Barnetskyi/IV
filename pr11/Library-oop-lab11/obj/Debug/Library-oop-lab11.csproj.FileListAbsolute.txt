@@ -1,0 +1,6 @@
+C:\Users\rosti\source\repos\oop-lab11\Library-oop-lab11\bin\Debug\Library-oop-lab11.dll
+C:\Users\rosti\source\repos\oop-lab11\Library-oop-lab11\bin\Debug\Library-oop-lab11.pdb
+C:\Users\rosti\source\repos\oop-lab11\Library-oop-lab11\obj\Debug\Library-oop-lab11.csprojAssemblyReference.cache
+C:\Users\rosti\source\repos\oop-lab11\Library-oop-lab11\obj\Debug\Library-oop-lab11.csproj.CoreCompileInputs.cache
+C:\Users\rosti\source\repos\oop-lab11\Library-oop-lab11\obj\Debug\Library-oop-lab11.dll
+C:\Users\rosti\source\repos\oop-lab11\Library-oop-lab11\obj\Debug\Library-oop-lab11.pdb

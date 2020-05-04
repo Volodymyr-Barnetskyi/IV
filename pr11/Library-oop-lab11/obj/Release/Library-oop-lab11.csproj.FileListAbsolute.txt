@@ -1,0 +1,16 @@
+C:\Users\rosti\source\repos\oop-lab11\Library-oop-lab11\bin\Release\Library-oop-lab11.dll
+C:\Users\rosti\source\repos\oop-lab11\Library-oop-lab11\bin\Release\Library-oop-lab11.pdb
+C:\Users\rosti\source\repos\oop-lab11\Library-oop-lab11\obj\Release\Library-oop-lab11.csprojAssemblyReference.cache
+C:\Users\rosti\source\repos\oop-lab11\Library-oop-lab11\obj\Release\Library-oop-lab11.csproj.CoreCompileInputs.cache
+C:\Users\rosti\source\repos\oop-lab11\Library-oop-lab11\obj\Release\Library-oop-lab11.dll
+C:\Users\rosti\source\repos\oop-lab11\Library-oop-lab11\obj\Release\Library-oop-lab11.pdb
+C:\Users\yaryna\Desktop\oop-lab11\Library-oop-lab11\bin\Release\Library-oop-lab11.dll
+C:\Users\yaryna\Desktop\oop-lab11\Library-oop-lab11\bin\Release\Library-oop-lab11.pdb
+C:\Users\yaryna\Desktop\oop-lab11\Library-oop-lab11\obj\Release\Library-oop-lab11.csprojAssemblyReference.cache
+C:\Users\yaryna\Desktop\oop-lab11\Library-oop-lab11\obj\Release\Library-oop-lab11.dll
+C:\Users\yaryna\Desktop\oop-lab11\Library-oop-lab11\obj\Release\Library-oop-lab11.pdb
+D:\WWW\sharp\pr11\Library-oop-lab11\bin\Release\Library-oop-lab11.dll
+D:\WWW\sharp\pr11\Library-oop-lab11\bin\Release\Library-oop-lab11.pdb
+D:\WWW\sharp\pr11\Library-oop-lab11\obj\Release\Library-oop-lab11.csprojAssemblyReference.cache
+D:\WWW\sharp\pr11\Library-oop-lab11\obj\Release\Library-oop-lab11.dll
+D:\WWW\sharp\pr11\Library-oop-lab11\obj\Release\Library-oop-lab11.pdb

@@ -1,0 +1,84 @@
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Коледж\4 курс\Гоянюк\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\obj\Debug\App.g.cs
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\diman\Documents\GitHub\koledg2\pr5\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ivanb\OneDrive\Pulpit\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\yaryna\Desktop\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\yaryna\Desktop\sharp\pr6\zavd2WPF2\WpfApp1\obj\Debug\WpfApp1.pdb

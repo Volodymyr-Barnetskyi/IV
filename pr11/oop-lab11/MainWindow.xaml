@@ -1,0 +1,33 @@
+﻿<Window x:Class="oop_lab11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:oop_lab11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="500" MinHeight="500" MinWidth="500" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="LabelStyle" TargetType="{x:Type Label}">
+            <Setter Property="FontFamily" Value="Franklin Gothic Medium" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="Margin" Value="5" />
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Initialized="StackPanel_Initialized"  HorizontalAlignment="Center" VerticalAlignment="Center" Height="430" Width="450">
+            <Label x:Name="Title" Style="{StaticResource LabelStyle}" FontSize="30" Content="Погода в Коломиї"/>
+            <DockPanel Width="300">
+                <Image Name="Picture" Width="50" Height="50"></Image>
+                <Label Name="SkyStatus" Style="{StaticResource LabelStyle}"></Label>
+            </DockPanel>
+            <Label Name="Temperature" Style="{StaticResource LabelStyle}"></Label>
+            <Label Name="Wind" Style="{StaticResource LabelStyle}"></Label>
+            <Label Name="Humidity" Style="{StaticResource LabelStyle}"></Label>
+            <Label Name="Pressure" Style="{StaticResource LabelStyle}"></Label>
+            <Button Name="Refresh" FontFamily="Franklin Gothic Medium" FontSize="20" Height="40" Click="Refresh_Click" Margin="160,0" Foreground="White" Background="Black" BorderBrush="Black">Оновити</Button>
+            <TextBlock FontSize="14" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5"><Run Text="Викон"/><Run Text="ав"/><Run Text=":&#xA;"/><Run Text="Барнецький Володимир"/><Run Text="&#xA;Група"/><Run Text=": "/><Run Text=" П-42"/></TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>
